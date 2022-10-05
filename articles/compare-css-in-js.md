@@ -1,8 +1,9 @@
 ---
-title: "styled-components に代わる CSS-in-JS の比較検討"
-emoji: "👻"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["JavaScript", "CSS", "React"]
+title: 'styled-components に代わる CSS-in-JS の比較検討'
+emoji: '👻'
+type: 'tech' # tech: 技術記事 / idea: アイデア
+topics: ['JavaScript', 'CSS', 'React']
+publication_name: 'lincwell_inc'
 published: true
 ---
 
