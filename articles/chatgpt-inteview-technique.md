@@ -3,7 +3,7 @@ title: 'ChatGPT にインタビュー記事を書いてもらったときのテ�
 emoji: '🐰'
 type: 'idea' # tech: 技術記事 / idea: アイデア
 topics: ['ChatGPT']
-published: false
+published: true
 ---
 
 [こちらの note](https://note.com/lincwell/n/n81d5ff1cb58b) にて、ChatGPT （GPT-4）にインタビュー記事を書いてもらうという試みをしました。この際に ChatGPT とやり取りする中で考えたことと具体的なプロンプト、テクニックを書いていきます。
