@@ -3,6 +3,7 @@ title: 'ChatGPT にインタビュー記事を書いてもらったときのテ�
 emoji: '🐰'
 type: 'idea' # tech: 技術記事 / idea: アイデア
 topics: ['ChatGPT']
+publication_name: 'lincwell_inc'
 published: true
 ---
 
