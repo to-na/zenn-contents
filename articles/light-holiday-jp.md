@@ -29,6 +29,11 @@ published: true
 
 外部ライブラリを使っていないため、他言語でも容易に実装可能と思われます。
 
+# 実装
+
+GitHub で公開しています。
+[to-na/holiday-jp-since](https://github.com/to-na/holiday-jp-since)
+
 # インストール
 
 `npm i holiday-jp-since`
