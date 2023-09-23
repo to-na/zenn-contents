@@ -47,7 +47,7 @@ import { getHolidaysOfYear, getHolidaysBetweenYears } from "holiday-jp-since";
 // 2024年の祝日の一覧を返す
 const hoildays2024 = getHolidaysOfYear(2024);
 // 2024年から2099年までの祝日の一覧を返す
-const holidays2024To2099 = getHolidaysOfYear(2024, 2099);
+const holidays2024To2099 = getHolidaysBetweenYears(2024, 2099);
 ```
 
 返り値のフォーマットは、
@@ -64,6 +64,14 @@ const holidays2024To2099 = getHolidaysOfYear(2024, 2099);
 
 のようにしています。
 `holidayType: "fixed"` は年によらず固定の祝日であることを表しています。他にも、`moving, furikae` などがありますが、そもそも`holidayType` の使用頻度は多くないかもしれません。
+
+また、特定の日付が祝日か判定したい場合、 `isHoliday` 関数が使えます。
+
+```ts
+import { isHoliday } from "holiday-jp-since";
+
+const is20240101Holiday = isHoliday(2024, 1, 1); // => true
+```
 
 # 課題
 
