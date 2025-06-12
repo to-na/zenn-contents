@@ -15,7 +15,7 @@ published: true
 
 ## これは何
 
-複数の Claude Code のセッションを、Web UI で操作できるツールです。
+複数の Claude Code のセッションを、Web UI で操作できるツールです。Git Worktree の運用を想定しています。
 https://github.com/to-na/claude-code-crew
 
 ![Claude Code Crew](https://storage.googleapis.com/zenn-user-upload/1b63b8ae3314-20250613.png)
