@@ -3,7 +3,7 @@ title: "Claude Code たちをWebブラウザから操作できるようにして
 emoji: "🐇"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "Claude", "ClaudeCode"]
-published: false
+published: true
 ---
 ## TL;DR
 
